@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: AGL Agile Playbook (ALPHA)
+
+theme:
+    name: readthedocs
+
+pages:
+    - Welcome: index.md
+    - About: about.md
+
