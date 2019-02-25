@@ -3,7 +3,7 @@ site_name: AGL Training Sandbox (ALPHA)
 theme:
     name: readthedocs
 
-pages:
+nav:
     - Welcome: index.md
     - Start Here: start.md
     - References:
