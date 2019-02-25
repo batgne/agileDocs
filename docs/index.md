@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to AGL Training sandbox!
+Welcome to AGL Playbook!
 Glad you dropped by.
 
 # Read this
