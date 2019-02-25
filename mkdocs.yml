@@ -1,4 +1,5 @@
 site_name: AGL Training Sandbox (ALPHA)
+repo_url: https://github.com/batgne/agileDocs/
 
 theme:
     name: readthedocs
