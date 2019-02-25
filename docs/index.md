@@ -1,9 +1,9 @@
 # Welcome
 
-Welcome to AGL Agile playbook!
-Glad you dropped by :)
+Welcome to AGL Training sandbox!
+Glad you dropped by.
 
-# SOMETHING ELSE
+# Read this
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id leo a purus maximus gravida quis vel nunc. Pellentesque ultricies blandit lorem sit amet ornare. Morbi tempus ipsum eget dapibus dignissim. Cras eget pellentesque orci. Integer in dolor mauris. Cras leo metus, efficitur ut arcu nec, pretium elementum turpis. Aliquam gravida augue vel nulla viverra egestas. Sed lobortis risus et lacus eleifend pellentesque. Curabitur euismod neque ac euismod fringilla. Cras tristique congue risus eu sagittis.
 

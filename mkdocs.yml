@@ -1,9 +1,13 @@
-site_name: AGL Agile Playbook (ALPHA)
+site_name: AGL Training Sandbox (ALPHA)
 
 theme:
     name: readthedocs
 
 pages:
     - Welcome: index.md
+    - Start Here: start.md
+    - References:
+      - Videos we like: 'videos.md'
+      - Articles we like: 'articles.md' 
     - About: about.md
 
