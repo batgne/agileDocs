@@ -5,10 +5,10 @@ theme:
     name: readthedocs
 
 nav:
-    - Welcome: index.md
-    - Start Here: start.md
     - References:
       - Videos we like: 'videos.md'
       - Articles we like: 'articles.md' 
     - About: about.md
-
+    - Welcome: index.md
+    - Start Here: start.md
+    
